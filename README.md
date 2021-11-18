@@ -1,0 +1,2 @@
+# M6_T01_Algoritmes_Aprenentatge_No_Supervisat_Agrupacio
+M6_T01_Algoritmes_Aprenentatge_No_Supervisat_Agrupacio
